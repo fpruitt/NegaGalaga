@@ -226,6 +226,24 @@ TextureImporter:
     21300442: Arcade-Galaga-Galaga_221
     21300444: Arcade-Galaga-Galaga_222
     21300446: Arcade-Galaga-Galaga_223
+    21300448: Arcade-Galaga-Galaga_224
+    21300450: Arcade-Galaga-Galaga_225
+    21300452: Arcade-Galaga-Galaga_226
+    21300454: Arcade-Galaga-Galaga_227
+    21300456: Arcade-Galaga-Galaga_228
+    21300458: Arcade-Galaga-Galaga_229
+    21300460: Arcade-Galaga-Galaga_230
+    21300462: Arcade-Galaga-Galaga_231
+    21300464: Arcade-Galaga-Galaga_232
+    21300466: Arcade-Galaga-Galaga_233
+    21300468: Arcade-Galaga-Galaga_234
+    21300470: Arcade-Galaga-Galaga_235
+    21300472: Arcade-Galaga-Galaga_236
+    21300474: Arcade-Galaga-Galaga_237
+    21300476: Arcade-Galaga-Galaga_238
+    21300478: Arcade-Galaga-Galaga_239
+    21300480: Arcade-Galaga-Galaga_240
+    21300482: Arcade-Galaga-Galaga_241
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -270,2240 +288,2420 @@ TextureImporter:
     - name: Arcade-Galaga-Galaga_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 309
+        x: 30
+        y: 341
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_1
       rect:
         serializedVersion: 2
-        x: 39
-        y: 309
+        x: 54
+        y: 341
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_2
       rect:
         serializedVersion: 2
-        x: 63
-        y: 309
+        x: 78
+        y: 341
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_3
       rect:
         serializedVersion: 2
-        x: 87
-        y: 309
+        x: 102
+        y: 341
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_4
       rect:
         serializedVersion: 2
-        x: 111
-        y: 309
+        x: 126
+        y: 341
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_5
       rect:
         serializedVersion: 2
-        x: 135
-        y: 309
+        x: 150
+        y: 341
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_6
       rect:
         serializedVersion: 2
-        x: 159
-        y: 309
+        x: 174
+        y: 341
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_7
       rect:
         serializedVersion: 2
-        x: 183
-        y: 309
+        x: 198
+        y: 341
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_8
       rect:
         serializedVersion: 2
-        x: 210
-        y: 305
-        width: 31
-        height: 29
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 222
+        y: 341
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_9
       rect:
         serializedVersion: 2
-        x: 227
-        y: 344
+        x: 246
+        y: 341
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_10
       rect:
         serializedVersion: 2
-        x: 248
-        y: 303
-        width: 31
-        height: 32
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 270
+        y: 341
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_11
       rect:
         serializedVersion: 2
-        x: 284
-        y: 302
-        width: 40
-        height: 35
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 294
+        y: 341
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_12
       rect:
         serializedVersion: 2
-        x: 329
-        y: 357
+        x: 267
+        y: 354
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_13
       rect:
         serializedVersion: 2
-        x: 326
-        y: 303
-        width: 35
-        height: 34
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 269
+        y: 346
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_14
       rect:
         serializedVersion: 2
-        x: 366
-        y: 318
+        x: 275
+        y: 350
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_15
       rect:
         serializedVersion: 2
-        x: 360
-        y: 355
+        x: 263
+        y: 357
         width: 20
-        height: 19
-      alignment: 9
-      pivot: {x: -.59652406, y: 3.19321632}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 346
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 341
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 349
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 350
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 344
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 349
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 342
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 353
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 344
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 317
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 317
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 317
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 317
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 317
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 317
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_31
       rect:
         serializedVersion: 2
         x: 390
         y: 317
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_17
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 285
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_18
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 285
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_19
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 285
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_20
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 285
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_21
-      rect:
-        serializedVersion: 2
-        x: 111
-        y: 285
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_22
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 285
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_23
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 285
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_24
-      rect:
-        serializedVersion: 2
-        x: 183
-        y: 285
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_25
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 363
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_26
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 360
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_27
-      rect:
-        serializedVersion: 2
-        x: 327
-        y: 354
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_28
-      rect:
-        serializedVersion: 2
-        x: 370
-        y: 358
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_29
-      rect:
-        serializedVersion: 2
-        x: 349
-        y: 361
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_30
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 358
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arcade-Galaga-Galaga_31
-      rect:
-        serializedVersion: 2
-        x: 357
-        y: 358
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_32
       rect:
         serializedVersion: 2
-        x: 364
-        y: 294
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 39
+        y: 288
+        width: 11
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_33
       rect:
         serializedVersion: 2
-        x: 390
-        y: 297
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 56
+        y: 287
+        width: 9
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_34
       rect:
         serializedVersion: 2
-        x: 15
-        y: 261
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 73
+        y: 287
+        width: 15
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_35
       rect:
         serializedVersion: 2
-        x: 39
-        y: 261
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 96
+        y: 284
+        width: 17
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_36
       rect:
         serializedVersion: 2
-        x: 63
-        y: 261
-        width: 20
+        x: 120
+        y: 285
+        width: 18
         height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_37
       rect:
         serializedVersion: 2
-        x: 87
-        y: 261
-        width: 20
+        x: 144
+        y: 285
+        width: 18
         height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_38
       rect:
         serializedVersion: 2
-        x: 111
-        y: 261
+        x: 175
+        y: 334
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_39
       rect:
         serializedVersion: 2
-        x: 135
-        y: 261
+        x: 186
+        y: 350
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_40
       rect:
         serializedVersion: 2
-        x: 159
-        y: 261
+        x: 189
+        y: 339
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_41
       rect:
         serializedVersion: 2
-        x: 183
-        y: 261
+        x: 246
+        y: 293
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_42
       rect:
         serializedVersion: 2
-        x: 207
-        y: 191
-        width: 46
-        height: 89
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 270
+        y: 293
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_43
       rect:
         serializedVersion: 2
-        x: 125
-        y: 360
+        x: 294
+        y: 293
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_44
       rect:
         serializedVersion: 2
-        x: 85
-        y: 358
+        x: 318
+        y: 293
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_45
       rect:
         serializedVersion: 2
-        x: 265
-        y: 195
-        width: 44
-        height: 88
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 342
+        y: 293
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_46
       rect:
         serializedVersion: 2
-        x: 342
-        y: 359
+        x: 366
+        y: 293
         width: 20
-        height: 19
-      alignment: 9
-      pivot: {x: 2.67523813, y: 5.32923651}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_47
       rect:
         serializedVersion: 2
-        x: 318
-        y: 196
-        width: 53
-        height: 86
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 390
+        y: 293
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_48
       rect:
         serializedVersion: 2
-        x: 404
-        y: 364
+        x: 57
+        y: 333
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_49
       rect:
         serializedVersion: 2
-        x: 375
-        y: 258
-        width: 28
-        height: 22
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 68
+        y: 342
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_50
       rect:
         serializedVersion: 2
-        x: 399
-        y: 261
+        x: 102
+        y: 342
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_51
       rect:
         serializedVersion: 2
-        x: 15
-        y: 237
+        x: 124
+        y: 341
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_52
       rect:
         serializedVersion: 2
-        x: 39
-        y: 237
+        x: 155
+        y: 345
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_53
       rect:
         serializedVersion: 2
-        x: 63
-        y: 237
+        x: 186
+        y: 332
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_54
       rect:
         serializedVersion: 2
-        x: 87
-        y: 237
+        x: 171
+        y: 346
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_55
       rect:
         serializedVersion: 2
-        x: 111
-        y: 237
+        x: 164
+        y: 354
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_56
       rect:
         serializedVersion: 2
-        x: 135
-        y: 237
+        x: 189
+        y: 333
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_57
       rect:
         serializedVersion: 2
-        x: 159
-        y: 237
+        x: 246
+        y: 269
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_58
       rect:
         serializedVersion: 2
-        x: 183
-        y: 237
+        x: 270
+        y: 269
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_59
       rect:
         serializedVersion: 2
-        x: 273
-        y: 360
+        x: 294
+        y: 269
         width: 20
-        height: 19
-      alignment: 9
-      pivot: {x: 3.90128183, y: 6.49491501}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_60
       rect:
         serializedVersion: 2
-        x: 324
-        y: 352
+        x: 318
+        y: 269
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_61
       rect:
         serializedVersion: 2
-        x: 56
-        y: 349
+        x: 342
+        y: 269
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_62
       rect:
         serializedVersion: 2
-        x: 95
-        y: 349
+        x: 366
+        y: 269
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_63
       rect:
         serializedVersion: 2
-        x: 377
-        y: 353
+        x: 390
+        y: 269
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_64
       rect:
         serializedVersion: 2
-        x: 286
-        y: 360
+        x: 86
+        y: 337
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_65
       rect:
         serializedVersion: 2
-        x: 388
-        y: 352
+        x: 67
+        y: 337
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_66
       rect:
         serializedVersion: 2
-        x: 375
-        y: 237
+        x: 90
+        y: 339
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_67
       rect:
         serializedVersion: 2
-        x: 399
-        y: 237
+        x: 98
+        y: 339
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_68
       rect:
         serializedVersion: 2
-        x: 15
-        y: 213
+        x: 124
+        y: 338
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_69
       rect:
         serializedVersion: 2
-        x: 39
-        y: 213
+        x: 217
+        y: 337
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_70
       rect:
         serializedVersion: 2
-        x: 63
-        y: 213
+        x: 174
+        y: 343
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_71
       rect:
         serializedVersion: 2
-        x: 87
-        y: 213
+        x: 187
+        y: 335
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_72
       rect:
         serializedVersion: 2
-        x: 111
-        y: 213
+        x: 195
+        y: 335
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_73
       rect:
         serializedVersion: 2
-        x: 135
-        y: 213
+        x: 246
+        y: 245
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_74
       rect:
         serializedVersion: 2
-        x: 159
-        y: 213
+        x: 270
+        y: 245
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_75
       rect:
         serializedVersion: 2
-        x: 183
-        y: 213
+        x: 294
+        y: 245
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_76
       rect:
         serializedVersion: 2
-        x: 353
-        y: 361
+        x: 318
+        y: 245
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_77
       rect:
         serializedVersion: 2
-        x: 397
-        y: 363
+        x: 342
+        y: 245
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_78
       rect:
         serializedVersion: 2
-        x: 98
-        y: 347
+        x: 366
+        y: 245
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_79
       rect:
         serializedVersion: 2
-        x: 95
-        y: 356
+        x: 390
+        y: 245
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_80
       rect:
         serializedVersion: 2
-        x: 384
-        y: 359
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 27
+        y: 217
+        width: 11
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_81
       rect:
         serializedVersion: 2
-        x: 298
-        y: 362
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 141
+        y: 343
+        width: 15
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_82
       rect:
         serializedVersion: 2
-        x: 381
-        y: 341
+        x: 98
+        y: 344
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_83
       rect:
         serializedVersion: 2
-        x: 375
-        y: 213
+        x: 106
+        y: 337
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_84
       rect:
         serializedVersion: 2
-        x: 399
-        y: 213
+        x: 127
+        y: 343
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_85
       rect:
         serializedVersion: 2
-        x: 15
-        y: 189
+        x: 141
+        y: 343
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_86
       rect:
         serializedVersion: 2
-        x: 39
-        y: 189
+        x: 195
+        y: 335
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_87
       rect:
         serializedVersion: 2
-        x: 63
-        y: 189
+        x: 190
+        y: 326
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_88
       rect:
         serializedVersion: 2
-        x: 87
-        y: 189
+        x: 204
+        y: 335
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_89
       rect:
         serializedVersion: 2
-        x: 111
-        y: 189
+        x: 246
+        y: 221
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_90
       rect:
         serializedVersion: 2
-        x: 135
-        y: 189
+        x: 270
+        y: 221
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_91
       rect:
         serializedVersion: 2
-        x: 159
-        y: 189
+        x: 294
+        y: 221
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_92
       rect:
         serializedVersion: 2
-        x: 183
-        y: 189
+        x: 318
+        y: 221
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_93
       rect:
         serializedVersion: 2
-        x: 298
-        y: 364
+        x: 342
+        y: 221
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_94
       rect:
         serializedVersion: 2
-        x: 128
-        y: 356
+        x: 366
+        y: 221
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_95
       rect:
         serializedVersion: 2
-        x: 94
-        y: 338
+        x: 390
+        y: 221
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_96
       rect:
         serializedVersion: 2
-        x: 86
-        y: 347
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 88
+        y: 331
+        width: 15
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_97
       rect:
         serializedVersion: 2
-        x: 347
-        y: 350
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        x: 185
+        y: 349
+        width: 7
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 7, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_98
       rect:
         serializedVersion: 2
-        x: 382
-        y: 363
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 69
+        y: 190
+        width: 35
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_99
       rect:
         serializedVersion: 2
-        x: 380
-        y: 336
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 198
+        y: 346
+        width: 12
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_100
       rect:
         serializedVersion: 2
-        x: 375
-        y: 199
-        width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 113
+        y: 192
+        width: 32
+        height: 29
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_101
       rect:
         serializedVersion: 2
-        x: 380
-        y: 174
+        x: 150
+        y: 197
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_102
       rect:
         serializedVersion: 2
-        x: 15
-        y: 165
+        x: 174
+        y: 197
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_103
       rect:
         serializedVersion: 2
-        x: 39
-        y: 165
+        x: 198
+        y: 197
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_104
       rect:
         serializedVersion: 2
-        x: 63
-        y: 165
+        x: 200
+        y: 346
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_105
       rect:
         serializedVersion: 2
-        x: 87
-        y: 165
+        x: 246
+        y: 197
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_106
       rect:
         serializedVersion: 2
-        x: 111
-        y: 165
+        x: 270
+        y: 197
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_107
       rect:
         serializedVersion: 2
-        x: 135
-        y: 165
+        x: 294
+        y: 197
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_108
       rect:
         serializedVersion: 2
-        x: 159
-        y: 165
+        x: 318
+        y: 197
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_109
       rect:
         serializedVersion: 2
-        x: 183
-        y: 165
+        x: 342
+        y: 197
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_110
       rect:
         serializedVersion: 2
-        x: 209
-        y: 170
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 366
+        y: 197
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_111
       rect:
         serializedVersion: 2
-        x: 231
-        y: 167
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 390
+        y: 197
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_112
       rect:
         serializedVersion: 2
-        x: 255
-        y: 166
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 26
+        y: 193
+        width: 12
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_113
       rect:
         serializedVersion: 2
-        x: 279
-        y: 161
-        width: 33
-        height: 29
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 53
+        y: 193
+        width: 8
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_114
       rect:
         serializedVersion: 2
-        x: 389
-        y: 22
+        x: 175
+        y: 337
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_115
       rect:
         serializedVersion: 2
-        x: 318
-        y: 161
-        width: 37
-        height: 32
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 197
+        y: 339
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_116
       rect:
         serializedVersion: 2
-        x: 380
-        y: 237
+        x: 179
+        y: 339
         width: 20
-        height: 19
-      alignment: 9
-      pivot: {x: 2.39839029, y: 4.41334629}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_117
       rect:
         serializedVersion: 2
-        x: 358
-        y: 174
+        x: 191
+        y: 342
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_118
       rect:
         serializedVersion: 2
-        x: 399
-        y: 165
+        x: 187
+        y: 333
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_119
       rect:
         serializedVersion: 2
-        x: 15
-        y: 141
+        x: 193
+        y: 339
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_120
       rect:
         serializedVersion: 2
-        x: 39
-        y: 141
+        x: 222
+        y: 173
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_121
       rect:
         serializedVersion: 2
-        x: 63
-        y: 141
+        x: 246
+        y: 173
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_122
       rect:
         serializedVersion: 2
-        x: 87
-        y: 141
+        x: 270
+        y: 173
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_123
       rect:
         serializedVersion: 2
-        x: 111
-        y: 141
+        x: 294
+        y: 173
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_124
       rect:
         serializedVersion: 2
-        x: 135
-        y: 141
+        x: 318
+        y: 173
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_125
       rect:
         serializedVersion: 2
-        x: 159
-        y: 141
+        x: 342
+        y: 173
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_126
       rect:
         serializedVersion: 2
-        x: 183
-        y: 141
+        x: 366
+        y: 173
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_127
       rect:
         serializedVersion: 2
-        x: 207
-        y: 141
+        x: 390
+        y: 173
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_128
       rect:
         serializedVersion: 2
-        x: 231
-        y: 141
+        x: 170
+        y: 349
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_129
       rect:
         serializedVersion: 2
-        x: 255
-        y: 141
+        x: 169
+        y: 344
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_130
       rect:
         serializedVersion: 2
-        x: 279
-        y: 141
+        x: 177
+        y: 343
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_131
       rect:
         serializedVersion: 2
-        x: 303
-        y: 141
+        x: 163
+        y: 340
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_132
       rect:
         serializedVersion: 2
-        x: 327
-        y: 141
+        x: 188
+        y: 348
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_133
       rect:
         serializedVersion: 2
-        x: 357
-        y: 152
+        x: 184
+        y: 342
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_134
       rect:
         serializedVersion: 2
-        x: 377
-        y: 152
+        x: 184
+        y: 343
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_135
       rect:
         serializedVersion: 2
-        x: 399
-        y: 141
+        x: 188
+        y: 338
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_136
       rect:
         serializedVersion: 2
-        x: 15
-        y: 117
+        x: 222
+        y: 149
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_137
       rect:
         serializedVersion: 2
-        x: 39
-        y: 117
+        x: 246
+        y: 149
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_138
       rect:
         serializedVersion: 2
-        x: 63
-        y: 117
+        x: 270
+        y: 149
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_139
       rect:
         serializedVersion: 2
-        x: 87
-        y: 117
+        x: 294
+        y: 149
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_140
       rect:
         serializedVersion: 2
-        x: 111
-        y: 117
+        x: 318
+        y: 149
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_141
       rect:
         serializedVersion: 2
-        x: 135
-        y: 117
+        x: 342
+        y: 149
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_142
       rect:
         serializedVersion: 2
-        x: 159
-        y: 117
+        x: 366
+        y: 149
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_143
       rect:
         serializedVersion: 2
-        x: 183
-        y: 117
+        x: 390
+        y: 149
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_144
       rect:
         serializedVersion: 2
-        x: 207
-        y: 117
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 19
+        y: 75
+        width: 11
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_145
       rect:
         serializedVersion: 2
-        x: 231
-        y: 117
+        x: 160
+        y: 343
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_146
       rect:
         serializedVersion: 2
-        x: 255
-        y: 117
+        x: 184
+        y: 344
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_147
       rect:
         serializedVersion: 2
-        x: 279
-        y: 117
+        x: 188
+        y: 334
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_148
       rect:
         serializedVersion: 2
-        x: 303
-        y: 117
+        x: 189
+        y: 339
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_149
       rect:
         serializedVersion: 2
-        x: 327
-        y: 117
+        x: 193
+        y: 347
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_150
       rect:
         serializedVersion: 2
-        x: 351
-        y: 117
+        x: 193
+        y: 335
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_151
       rect:
         serializedVersion: 2
-        x: 375
-        y: 117
+        x: 184
+        y: 332
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_152
       rect:
         serializedVersion: 2
-        x: 399
-        y: 117
+        x: 222
+        y: 125
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_153
       rect:
         serializedVersion: 2
-        x: 15
-        y: 93
+        x: 246
+        y: 125
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_154
       rect:
         serializedVersion: 2
-        x: 39
-        y: 93
+        x: 270
+        y: 125
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_155
       rect:
         serializedVersion: 2
-        x: 63
-        y: 93
+        x: 294
+        y: 125
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_156
       rect:
         serializedVersion: 2
-        x: 87
-        y: 93
+        x: 318
+        y: 125
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_157
       rect:
         serializedVersion: 2
-        x: 111
-        y: 93
+        x: 342
+        y: 125
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_158
       rect:
         serializedVersion: 2
-        x: 135
-        y: 93
+        x: 366
+        y: 125
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_159
       rect:
         serializedVersion: 2
-        x: 159
-        y: 93
+        x: 390
+        y: 125
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_160
       rect:
         serializedVersion: 2
-        x: 183
-        y: 93
+        x: 189
+        y: 350
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_161
       rect:
         serializedVersion: 2
-        x: 207
-        y: 93
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 54
+        y: 100
+        width: 51
+        height: 85
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_162
       rect:
         serializedVersion: 2
-        x: 231
-        y: 93
+        x: 180
+        y: 340
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_163
       rect:
         serializedVersion: 2
-        x: 331
-        y: 132
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 107
+        y: 100
+        width: 57
+        height: 85
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_164
       rect:
         serializedVersion: 2
-        x: 286
-        y: 80
+        x: 182
+        y: 331
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_165
       rect:
         serializedVersion: 2
-        x: 218
-        y: 145
+        x: 185
+        y: 348
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_166
       rect:
         serializedVersion: 2
-        x: 310
-        y: 79
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 167
+        y: 100
+        width: 49
+        height: 85
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_167
       rect:
         serializedVersion: 2
-        x: 334
-        y: 79
+        x: 193
+        y: 343
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_168
       rect:
         serializedVersion: 2
-        x: 390
-        y: 221
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 222
+        y: 101
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_169
       rect:
         serializedVersion: 2
-        x: 399
-        y: 93
+        x: 246
+        y: 101
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_170
       rect:
         serializedVersion: 2
-        x: 15
-        y: 69
+        x: 270
+        y: 101
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_171
       rect:
         serializedVersion: 2
-        x: 39
-        y: 69
+        x: 294
+        y: 101
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_172
       rect:
         serializedVersion: 2
-        x: 63
-        y: 69
+        x: 318
+        y: 101
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_173
       rect:
         serializedVersion: 2
-        x: 87
-        y: 69
+        x: 342
+        y: 101
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_174
       rect:
         serializedVersion: 2
-        x: 111
-        y: 69
+        x: 366
+        y: 101
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_175
       rect:
         serializedVersion: 2
-        x: 135
-        y: 69
+        x: 390
+        y: 101
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_176
       rect:
         serializedVersion: 2
-        x: 159
-        y: 69
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 46
+        y: 74
+        width: 7
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_177
       rect:
         serializedVersion: 2
-        x: 183
-        y: 69
+        x: 185
+        y: 333
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_178
       rect:
         serializedVersion: 2
-        x: 207
-        y: 69
+        x: 172
+        y: 343
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_179
       rect:
         serializedVersion: 2
-        x: 231
-        y: 69
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 102
+        y: 47
+        width: 35
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_180
       rect:
         serializedVersion: 2
-        x: 196
-        y: 69
+        x: 206
+        y: 342
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_181
       rect:
         serializedVersion: 2
-        x: 210
-        y: 67
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 144
+        y: 49
+        width: 32
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_182
       rect:
         serializedVersion: 2
-        x: 250
-        y: 116
+        x: 183
+        y: 350
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_183
       rect:
         serializedVersion: 2
-        x: 261
-        y: 80
+        x: 186
+        y: 349
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_184
       rect:
         serializedVersion: 2
-        x: 355
-        y: 79
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 222
+        y: 77
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_185
       rect:
         serializedVersion: 2
-        x: 373
-        y: 79
-        width: 16
-        height: 18
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 246
+        y: 77
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_186
       rect:
         serializedVersion: 2
-        x: 399
-        y: 69
+        x: 270
+        y: 77
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_187
       rect:
         serializedVersion: 2
-        x: 15
-        y: 45
+        x: 294
+        y: 77
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_188
       rect:
         serializedVersion: 2
-        x: 39
-        y: 45
+        x: 318
+        y: 77
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_189
       rect:
         serializedVersion: 2
-        x: 63
-        y: 45
+        x: 342
+        y: 77
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_190
       rect:
         serializedVersion: 2
-        x: 87
-        y: 45
+        x: 366
+        y: 77
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_191
       rect:
         serializedVersion: 2
-        x: 111
-        y: 45
+        x: 390
+        y: 77
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_192
       rect:
         serializedVersion: 2
-        x: 135
-        y: 45
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 18
+        y: 51
+        width: 11
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_193
       rect:
         serializedVersion: 2
-        x: 159
-        y: 45
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 46
+        y: 50
+        width: 6
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_194
       rect:
         serializedVersion: 2
-        x: 183
-        y: 45
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 62
+        y: 47
+        width: 35
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_195
       rect:
         serializedVersion: 2
-        x: 207
-        y: 45
+        x: 191
+        y: 328
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_196
       rect:
         serializedVersion: 2
-        x: 231
-        y: 45
+        x: 182
+        y: 331
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_197
       rect:
         serializedVersion: 2
-        x: 255
-        y: 45
+        x: 186
+        y: 337
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_198
       rect:
         serializedVersion: 2
-        x: 279
-        y: 45
+        x: 179
+        y: 334
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_199
       rect:
         serializedVersion: 2
-        x: 303
-        y: 45
-        width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 183
+        y: 49
+        width: 33
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_200
       rect:
         serializedVersion: 2
-        x: 327
-        y: 45
+        x: 222
+        y: 53
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_201
       rect:
         serializedVersion: 2
-        x: 351
-        y: 45
+        x: 246
+        y: 53
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_202
       rect:
         serializedVersion: 2
-        x: 375
-        y: 45
+        x: 270
+        y: 53
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_203
       rect:
         serializedVersion: 2
-        x: 399
-        y: 45
+        x: 294
+        y: 53
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_204
       rect:
         serializedVersion: 2
-        x: 15
-        y: 21
+        x: 318
+        y: 53
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_205
       rect:
         serializedVersion: 2
-        x: 39
-        y: 21
+        x: 342
+        y: 53
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_206
       rect:
         serializedVersion: 2
-        x: 63
-        y: 21
+        x: 366
+        y: 53
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_207
       rect:
         serializedVersion: 2
-        x: 87
-        y: 21
+        x: 390
+        y: 53
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_208
       rect:
         serializedVersion: 2
-        x: 111
-        y: 21
+        x: 182
+        y: 332
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_209
       rect:
         serializedVersion: 2
-        x: 135
-        y: 21
+        x: 162
+        y: 334
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_210
       rect:
         serializedVersion: 2
-        x: 159
-        y: 21
+        x: 187
+        y: 330
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_211
       rect:
         serializedVersion: 2
-        x: 183
-        y: 21
+        x: 180
+        y: 338
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_212
       rect:
         serializedVersion: 2
-        x: 207
-        y: 21
+        x: 191
+        y: 345
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_213
       rect:
         serializedVersion: 2
-        x: 231
-        y: 21
+        x: 185
+        y: 330
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_214
       rect:
         serializedVersion: 2
-        x: 255
-        y: 21
+        x: 193
+        y: 337
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_215
       rect:
         serializedVersion: 2
-        x: 279
-        y: 21
+        x: 186
+        y: 342
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_216
       rect:
         serializedVersion: 2
-        x: 303
-        y: 21
+        x: 222
+        y: 29
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_217
       rect:
         serializedVersion: 2
-        x: 327
-        y: 21
+        x: 246
+        y: 29
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_218
       rect:
         serializedVersion: 2
-        x: 351
-        y: 21
+        x: 270
+        y: 29
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_219
       rect:
         serializedVersion: 2
-        x: 375
-        y: 21
+        x: 294
+        y: 29
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_220
       rect:
         serializedVersion: 2
-        x: 399
-        y: 21
+        x: 318
+        y: 29
         width: 20
-        height: 19
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_221
       rect:
         serializedVersion: 2
-        x: 320
-        y: 369
-        width: 13
-        height: 6
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 342
+        y: 29
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_222
       rect:
         serializedVersion: 2
-        x: 259
-        y: 337
+        x: 366
+        y: 29
         width: 20
-        height: 46
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Arcade-Galaga-Galaga_223
       rect:
         serializedVersion: 2
-        x: 382
-        y: 207
-        width: 40
-        height: 80
+        x: 390
+        y: 29
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_224
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_225
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_226
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_227
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_228
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_229
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_230
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 335
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_231
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 340
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_232
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 340
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_233
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 342
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_234
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_235
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_236
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_237
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_238
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_239
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 5
+        width: 20
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_240
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 352
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade-Galaga-Galaga_241
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 217
+        width: 7
+        height: 13
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
