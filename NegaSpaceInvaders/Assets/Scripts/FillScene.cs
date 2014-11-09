@@ -8,9 +8,13 @@ public class FillScene : MonoBehaviour {
 	public Transform alien1;
 	public Transform alien2;
 	public Transform alien3;
+	public Transform testerAlien;
 	public bool movingLeft = true;
 	public GameObject[] aliens;
 	public float timePassed;
+
+	public bool first = true;
+	public float alienX, alienY;
 	// Use this for initialization
 	void Start () 
 	{
@@ -36,6 +40,7 @@ public class FillScene : MonoBehaviour {
 		aliens = GameObject.FindGameObjectsWithTag ("Alien");
 		foreach (GameObject alien in aliens)
 		{
+		
 			float translation = Time.deltaTime * alienSpeed;
 			if (movingLeft)
 			{

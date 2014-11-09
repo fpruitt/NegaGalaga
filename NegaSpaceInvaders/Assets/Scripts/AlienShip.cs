@@ -11,6 +11,7 @@ public class AlienShip : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
+
 	}
 	void OnCollisionEnter2D(Collision2D coll) 
 	{
@@ -22,5 +23,10 @@ public class AlienShip : MonoBehaviour {
 			Destroy (this.gameObject);
 		}
 		
+	}
+
+	void OnMouseDown()
+	{
+				Debug.Log ("this happened");
 	}
 }
