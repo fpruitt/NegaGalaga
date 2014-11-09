@@ -3,6 +3,7 @@ using System.Collections;
 
 public class Ship : MonoBehaviour {
 	public GameObject[] bullets;
+	public bool hit = false;
 	// Use this for initialization
 	void Start () {
 	
@@ -11,6 +12,10 @@ public class Ship : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
+		if (hit) {
+			Debug.Log ("this happened");
+						audio.Play ();
+				}
 	}
 	void OnCollisionEnter2D(Collision2D coll) 
 	{
@@ -20,8 +25,8 @@ public class Ship : MonoBehaviour {
 			Debug.Log ("hit.");
 			Destroy (coll.gameObject);
 			Destroy (this.gameObject);
-		}
 
-		
+			hit = true;
+		}
 	}
 }

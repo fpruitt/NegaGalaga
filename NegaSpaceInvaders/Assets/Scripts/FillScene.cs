@@ -13,8 +13,6 @@ public class FillScene : MonoBehaviour {
 	public GameObject[] aliens;
 	public float timePassed;
 
-	public bool first = true;
-	public float alienX, alienY;
 	// Use this for initialization
 	void Start () 
 	{

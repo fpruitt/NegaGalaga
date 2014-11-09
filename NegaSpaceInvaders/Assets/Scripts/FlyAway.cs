@@ -6,6 +6,8 @@ public class FlyAway : MonoBehaviour {
 	public bool move = false;
 	public float moveTimer = 0;
 
+	public Transform bullet;
+
 	// Use this for initialization
 	void Start () {
 
@@ -27,8 +29,6 @@ public class FlyAway : MonoBehaviour {
 				{
 						Destroy (gameObject, 2);
 				}
-
-		Debug.Log ("the moveTimer is: " + moveTimer);
 	}
 
 	void OnMouseDown()
