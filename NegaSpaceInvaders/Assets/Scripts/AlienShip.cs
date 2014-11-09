@@ -3,6 +3,7 @@ using System.Collections;
 
 public class AlienShip : MonoBehaviour {
 	public GameObject[] bullets;
+	public bool hit = false;
 	// Use this for initialization
 	void Start () {
 	
@@ -11,7 +12,10 @@ public class AlienShip : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
-
+		if (hit) {
+			Debug.Log ("this happened");
+						audio.Play ();
+				}
 	}
 	void OnCollisionEnter2D(Collision2D coll) 
 	{
@@ -21,12 +25,9 @@ public class AlienShip : MonoBehaviour {
 			Debug.Log ("hit.");
 			Destroy (coll.gameObject);
 			Destroy (this.gameObject);
+
+			hit = true;
 		}
 		
-	}
-
-	void OnMouseDown()
-	{
-				Debug.Log ("this happened");
 	}
 }
