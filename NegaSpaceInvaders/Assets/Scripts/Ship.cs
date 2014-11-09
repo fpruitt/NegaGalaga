@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class AlienShip : MonoBehaviour {
+public class Ship : MonoBehaviour {
 	public GameObject[] bullets;
 	// Use this for initialization
 	void Start () {
@@ -11,7 +11,6 @@ public class AlienShip : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
-
 	}
 	void OnCollisionEnter2D(Collision2D coll) 
 	{
@@ -22,11 +21,7 @@ public class AlienShip : MonoBehaviour {
 			Destroy (coll.gameObject);
 			Destroy (this.gameObject);
 		}
-		
-	}
 
-	void OnMouseDown()
-	{
-				Debug.Log ("this happened");
+		
 	}
 }

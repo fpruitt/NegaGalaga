@@ -106,9 +106,13 @@ MonoBehaviour:
   alien1: {fileID: 400000, guid: 7e879967eda014750b19a65c65e5356f, type: 2}
   alien2: {fileID: 400000, guid: 092a86539059f4671abe85b388ca210b, type: 2}
   alien3: {fileID: 400000, guid: 1a57f63dfe47d47bba2c0da3fc8378b7, type: 2}
+  testerAlien: {fileID: 0}
   movingLeft: 1
   aliens: []
   timePassed: 0
+  first: 1
+  alienX: 0
+  alienY: 0
 --- !u!4 &71152468
 Transform:
   m_ObjectHideFlags: 0
@@ -238,6 +242,7 @@ GameObject:
   - 212: {fileID: 535519344}
   - 114: {fileID: 535519347}
   - 114: {fileID: 535519346}
+  - 114: {fileID: 535519348}
   m_Layer: 0
   m_Name: FighterShip
   m_TagString: Untagged
@@ -307,6 +312,18 @@ MonoBehaviour:
   collidingDown: 0
   collidingLeft: 0
   collidingRight: 0
+--- !u!114 &535519348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 535519343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd3e8f6196733426d93741975f47e520, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullets: []
 --- !u!1 &623846615
 GameObject:
   m_ObjectHideFlags: 0
