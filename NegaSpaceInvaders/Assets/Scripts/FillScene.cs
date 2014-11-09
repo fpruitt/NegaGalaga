@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class FillScene : MonoBehaviour {
 	public const float squareLength = 6.4286f*2;
@@ -9,7 +10,7 @@ public class FillScene : MonoBehaviour {
 	public Transform alien3;
 	public bool movingLeft = true;
 	public GameObject[] aliens;
-	public float timePassed = 1.5f;
+	public float timePassed;
 	// Use this for initialization
 	void Start () 
 	{
@@ -25,6 +26,7 @@ public class FillScene : MonoBehaviour {
 		{
 			Instantiate(alien3, new Vector3(i*squareLength+squareLength, -10.5f*squareLength, 0), Quaternion.identity);
 		}
+		timePassed = 2.00f;
 	}
 	
 	// Update is called once per frame
@@ -41,12 +43,11 @@ public class FillScene : MonoBehaviour {
 			}
 			
 			alien.transform.Translate(translation, 0, 0);
-			Debug.Log (timePassed);
 		}
 		timePassed+= 1.0f * Time.deltaTime;
 
 		//Every X seconds, swap direction of enemies.
-		if(timePassed > 2.5f)
+		if(timePassed >= 4.0f)
 		{
 			if(movingLeft)
 			{
