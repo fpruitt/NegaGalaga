@@ -11,7 +11,6 @@ public class ShootingStuff : MonoBehaviour {
 
 		if(Input.GetKeyDown ("w"))   {
 			Transform shot = Instantiate(bullet, transform.position, Quaternion.identity) as Transform;
-			shot.rigidbody.AddForce (Vector3.up * 10);
 		}
 	}
 }
