@@ -3,10 +3,13 @@ using System.Collections;
 
 public class FillScene : MonoBehaviour {
 	public const float squareLength = 6.4286f*2;
+	public const float alienSpeed = squareLength;
 	public Transform alien1;
 	public Transform alien2;
 	public Transform alien3;
-	
+	public bool movingLeft = true;
+	public GameObject[] aliens;
+	public float timePassed = 1.5f;
 	// Use this for initialization
 	void Start () 
 	{
@@ -25,7 +28,35 @@ public class FillScene : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		
+	void Update () 
+	{
+
+		aliens = GameObject.FindGameObjectsWithTag ("Alien");
+		foreach (GameObject alien in aliens)
+		{
+			float translation = Time.deltaTime * alienSpeed;
+			if (movingLeft)
+			{
+				translation *= -1;
+			}
+			
+			alien.transform.Translate(translation, 0, 0);
+			Debug.Log (timePassed);
+		}
+		timePassed+= 1.0f * Time.deltaTime;
+
+		//Every X seconds, swap direction of enemies.
+		if(timePassed > 2.5f)
+		{
+			if(movingLeft)
+			{
+				movingLeft = false;
+			}
+			else
+			{
+				movingLeft=true;
+			}
+			timePassed = 0;
+		}
 	}
 }
