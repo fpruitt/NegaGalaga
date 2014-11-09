@@ -9,8 +9,9 @@ public class ShootingStuff : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		if(Input.GetKeyDown ("w") || Input.GetKeyDown ("Space"))   {
-			Instantiate(bullet, new Vector3(transform.position), Quaternion.identity) as Transform;
+		if(Input.GetKeyDown ("w"))   {
+			Transform shot = Instantiate(bullet, transform.position, Quaternion.identity) as Transform;
+			shot.rigidbody.AddForce (Vector3.up * 10);
 		}
 	}
 }
